@@ -15,15 +15,13 @@ class ModalApp extends Component {
   
 
   showModal = () => {
+    const menuitems = [...data]
     this.setState({
       visible: true,
-    });
-    const menuitems = [...data]
-
-    this.setState({
+      visiblePay:false,
       menuDataveg:menuitems[0].items,
       menuDatanon:menuitems[1].items
-    })
+    });
   };
 
   handleOk = e => {
