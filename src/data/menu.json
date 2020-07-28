@@ -1,0 +1,61 @@
+[
+      {
+        "category":"Veg Menu",
+        "items":[
+            {
+              "name":"Paneer Shahi",
+              "price":450
+            },
+            {
+              "name":"Paneer Lababdar",
+              "price":430
+            },
+            {
+              "name":"Mix Veg",
+              "price":350
+            },
+            {
+              "name":"Mashroom Shahi",
+              "price":340
+            },
+            {
+              "name":"Paneer Pasanda",
+              "price":550
+            },
+            {
+              "name":"Aloo Dum",
+              "price":250
+            }
+
+        ]
+      },
+      {
+        "category":"Non-Veg Menu",
+        "items":[
+            {
+              "name":"Chicken Keema",
+              "price":551
+            },
+            {
+              "name":"Chicken Kabaab",
+              "price":253
+            },
+            {
+              "name":"Mutton Keema",
+              "price":560
+            },
+            {
+              "name":"Chicken Biryani",
+              "price":510
+            },
+            {
+              "name":"Chicken Sandwhich",
+              "price":152
+            },
+            {
+              "name":"Chicken Tandoori",
+              "price":354
+            }
+        ]
+      }
+  ]
